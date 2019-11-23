@@ -4,7 +4,7 @@
   <groupId>com.devopslab</groupId>
   <artifactId>devopslab</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0-{date}</version> 
+  <version>1.0.0-${date}</version> 
   <name>devopslab Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
