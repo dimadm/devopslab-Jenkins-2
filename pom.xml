@@ -8,7 +8,7 @@
     <connection>scm:git:https://github.com/dimadm/devopslab-Jenkins-2</connection>
     <developerConnection>scm:git:https://github.com/dimadm/devopslab-Jenkins-2</developerConnection> 
   </scm>  
-  <version>RELEASE</version> 
+  <version>SNAPSHOT</version> 
   <name>devopslab Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
