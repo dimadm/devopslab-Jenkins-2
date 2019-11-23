@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <scm>  
     <connection>scm:git:https://github.com/dimadm/devopslab-Jenkins-2</connection>
-    <developerConnection>scm:git:[fetch=]https://github.com/dimadm/devopslab-Jenkins-2[push=]ssh://git@github.com:dimadm/devopslab-Jenkins-2.git</developerConnection>
+    <developerConnection>scm:git:[fetch=]https://github.com/dimadm/devopslab-Jenkins-2[push=]ssh://dimadm@github.com/dimadm/devopslab-Jenkins-2.git</developerConnection>
   </scm>  
   <version>SNAPSHOT</version> 
   <name>devopslab Maven Webapp</name>
