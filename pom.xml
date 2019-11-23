@@ -4,11 +4,7 @@
   <groupId>com.devopslab</groupId>
   <artifactId>devopslab</artifactId>
   <packaging>war</packaging>
-  <scm>  
-    <connection>scm:git:https://github.com/dimadm/devopslab-Jenkins-2</connection>
-    <developerConnection>scm:git:[fetch=]https://github.com/dimadm/devopslab-Jenkins-2[push=]ssh://dimadm@github.com/dimadm/devopslab-Jenkins-2.git</developerConnection>
-  </scm>  
-  <version>SNAPSHOT</version> 
+  <version>1.0.0-{date}</version> 
   <name>devopslab Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
