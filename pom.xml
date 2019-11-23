@@ -4,7 +4,11 @@
   <groupId>com.devopslab</groupId>
   <artifactId>devopslab</artifactId>
   <packaging>war</packaging>
-  <version>[0.0.0,)</version> 
+  <scm>  
+    <connection>scm:git:ssh://server_name[:port]/path_to_repository</connection>  
+    <developerConnection>scm:git:ssh://server_name[:port]/path_to_repository</developerConnection>  
+  </scm>  
+  <version>1.0.0</version> 
   <name>devopslab Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
